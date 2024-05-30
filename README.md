@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gXcdA3oqKlItjae47NT-bzGl81hU4BS1/view?usp=drivesdk](https://drive.google.com/file/d/1gXcdA3oqKlItjae47NT-bzGl81hU4BS1/view?usp=drivesdk)
 
-- ⚡ Extra Curricular **I am a Professional Cricketer**
+- ⚡  **I am a Professional Cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
