@@ -11,15 +11,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gXcdA3oqKlItjae47NT-bzGl81hU4BS1/view?usp=drivesdk](https://drive.google.com/file/d/1gXcdA3oqKlItjae47NT-bzGl81hU4BS1/view?usp=drivesdk)
 
-- ⚡  **I am a Professional Cricketer**
+- ⚡ Extra Curricular **I am a Professional Cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/adtiyakumar/pen/jjrezwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/adtiyakumar/pen/jjrezwe" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/adtiyakumar20?t=cjs86_0qaqitg8ndlb9gfa&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/adtiyakumar20?t=cjs86_0qaqitg8ndlb9gfa&s=09" height="30" width="40" /></a>
+<a href="https://codepen.io/adtiyakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adtiyakumar" height="30" width="40" /></a>
+<a href="https://twitter.com/adtiyakumar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adtiyakumar20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adtiya-kumar-7949671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adtiya-kumar-7949671" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/adityagujjar77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/adityagujjar77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adi_kumar_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adi_kumar_03/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adityagujjar77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityagujjar77" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adi_kumar_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi_kumar_03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
